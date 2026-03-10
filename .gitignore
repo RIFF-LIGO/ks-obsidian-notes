@@ -1,0 +1,17 @@
+# Obsidian - 排除经常变化的配置
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-desktop.json
+.obsidian/graph.json
+.obsidian/types.json
+
+# 插件数据（可选，排除个人数据）
+.obsidian/plugins/*/data.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak

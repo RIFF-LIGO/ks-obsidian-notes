@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "31913299b47d2b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e682470463e339a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78f13e067feb73aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "bea5ee3fc6903dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50-感悟/关于要频繁记录自己这件事.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "关于要频繁记录自己这件事"
+            }
+          },
+          {
+            "id": "b1802e200b2e503b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-日记/2026-03-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12bf6da9751d3e36",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f6622201810a5ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efd9beec8be23b60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aa3040c14731f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fccde2fe9232b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
+  },
+  "right": {
+    "id": "5c69a34ce6d78f4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b063a06b30eae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d09c80e73e4ff7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-日记/2026-03-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-03-10 的反向链接列表"
+            }
+          },
+          {
+            "id": "03d4af6eb68341e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10-日记/2026-03-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-03-10 的出链列表"
+            }
+          },
+          {
+            "id": "980a6deeb727b3f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "19ad3566daae0196",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3554d8be87079f05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10-日记/2026-03-10.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-03-10 的大纲"
+            }
+          },
+          {
+            "id": "3a68585282f40530",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "ae689f085f4406e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "publish:发布更改": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "b1802e200b2e503b",
+  "lastOpenFiles": [
+    "Templates/日记模板.md",
+    "10-日记/2026-03-10.md",
+    "00-Inbox/📚 笔记系统使用指南.md",
+    "30-灵感/未命名.md",
+    "Templates/灵感模板.md",
+    "Templates/感悟模板.md",
+    "Templates/知识笔记模板.md",
+    "相关笔记.md",
+    "未命名.md",
+    "2026-03-10.md",
+    "50-感悟/关于要频繁记录自己这件事.md",
+    "未命名.base",
+    "关于要频繁记录自己这件事.md",
+    "Templates/摘录模板.md",
+    "Templates",
+    "99-归档",
+    "50-感悟",
+    "40-摘录/视频",
+    "40-摘录/电影",
+    "40-摘录/书籍",
+    "40-摘录",
+    "30-灵感",
+    "20-知识笔记/开发",
+    "这是一个新的文件.md",
+    "2026-03-05.md",
+    "Excalidraw/Drawing 2026-03-05 23.23.29.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-05 23.22.56.excalidraw.md",
+    "欢迎.md",
+    "Excalidraw/Drawing 2026-03-05 23.39.42.excalidraw.md",
+    "未命名.canvas",
+    "未命名 1.md"
+  ]
+}
