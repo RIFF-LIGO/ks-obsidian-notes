@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-日记/2026-03-10.md",
+                "file": "10-日记/2026-03-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-10"
+              "title": "2026-03-12"
             }
           }
         ],
@@ -250,14 +250,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "b1802e200b2e503b",
   "lastOpenFiles": [
-    "30-灵感/未命名.md",
+    "50-感悟/关于要频繁记录自己这件事.md",
+    "10-日记/2026-03-12.md",
     "10-日记/2026-03-10.md",
+    "30-灵感/未命名.md",
     "Templates/日记模板.md",
     "00-Inbox/📚 笔记系统使用指南.md",
     "Templates/灵感模板.md",
@@ -266,7 +267,6 @@
     "相关笔记.md",
     "未命名.md",
     "2026-03-10.md",
-    "50-感悟/关于要频繁记录自己这件事.md",
     "未命名.base",
     "关于要频繁记录自己这件事.md",
     "Templates/摘录模板.md",
