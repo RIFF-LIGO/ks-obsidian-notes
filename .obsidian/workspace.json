@@ -11,10 +11,24 @@
             "id": "78f13e067feb73aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "使用双括号链接其他笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "使用双括号链接其他笔记"
             }
           },
           {
@@ -23,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50-感悟/关于要频繁记录自己这件事.md",
+                "file": "20-知识笔记/AI/关于ai应用层面的概念串联.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "关于要频繁记录自己这件事"
-            }
-          },
-          {
-            "id": "b1802e200b2e503b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-日记/2026-03-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-12"
+              "title": "关于ai应用层面的概念串联"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#知识笔记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 200
   },
   "right": {
     "id": "5c69a34ce6d78f4e",
@@ -253,23 +243,37 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b1802e200b2e503b",
+  "active": "bea5ee3fc6903dc4",
   "lastOpenFiles": [
-    "50-感悟/关于要频繁记录自己这件事.md",
+    "使用双括号链接其他笔记.md",
+    "Excalidraw/Drawing 2026-03-19 17.24.21.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-19 17.23.44.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-19 17.23.26.excalidraw.md",
+    "99-归档/Pasted image 20260319161456.png",
+    "20-知识笔记/AI/关于ai应用层面的概念串联.md",
+    "Excalidraw",
+    "20-知识笔记/一些有趣的知识/Obsidian快捷键的使用.md",
+    "Templates/知识笔记模板.md",
+    "10-日记/2025-03-19.md",
+    "20-知识笔记/AI/关于ai应用层面各个概念串联.md",
+    "2026-03-19.md",
+    "Templates/日记模板.md",
+    "Templates/摘录模板.md",
     "10-日记/2026-03-12.md",
     "10-日记/2026-03-10.md",
-    "30-灵感/未命名.md",
-    "Templates/日记模板.md",
-    "00-Inbox/📚 笔记系统使用指南.md",
-    "Templates/灵感模板.md",
     "Templates/感悟模板.md",
-    "Templates/知识笔记模板.md",
-    "相关笔记.md",
-    "未命名.md",
-    "2026-03-10.md",
+    "Templates/灵感模板.md",
+    "50-感悟/测试.md",
+    "50-感悟/HELLO.md",
+    "50-感悟/HELL.md",
+    "50-感悟/GANMA.md",
+    "50-感悟/关于要频繁记录自己这件事.md",
+    "00-Inbox/📚 笔记系统使用指南.md",
     "未命名.base",
-    "关于要频繁记录自己这件事.md",
-    "Templates/摘录模板.md",
+    "相关笔记.md",
+    "20-知识笔记/一些有趣的知识",
+    "40-摘录/电影/需要珍惜.md",
+    "30-灵感/未命名.md",
     "Templates",
     "99-归档",
     "50-感悟",
@@ -277,15 +281,6 @@
     "40-摘录/电影",
     "40-摘录/书籍",
     "40-摘录",
-    "30-灵感",
-    "20-知识笔记/开发",
-    "这是一个新的文件.md",
-    "2026-03-05.md",
-    "Excalidraw/Drawing 2026-03-05 23.23.29.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-05 23.22.56.excalidraw.md",
-    "欢迎.md",
-    "Excalidraw/Drawing 2026-03-05 23.39.42.excalidraw.md",
-    "未命名.canvas",
-    "未命名 1.md"
+    "未命名.canvas"
   ]
 }
